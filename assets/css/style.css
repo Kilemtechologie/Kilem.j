@@ -334,6 +334,8 @@ h6 {
   background: url("../img/hero-bg.jpg") top center;
   background-size: cover;
   padding: 0 15px;
+  background-color: rgba(0, 0, 0, .65);
+  background-blend-mode: multiply;
 }
 
 #hero h1 {
